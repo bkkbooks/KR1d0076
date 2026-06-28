@@ -1,0 +1,191 @@
+canonical_identifier: bkk:krp/KR1d0076/v1
+canonical_location: https://kanripo.org/bkk/KR1d0076/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大戴禮記
+  identifiers:
+    krp: KR1d0076
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR1d
+    tls-internal:
+    - swl
+    - tr-de
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR1d0076.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR1d0076_001.yaml, hash: 'sha256:9103f3d542790345a71731633d594984ba5e266452d1c18f95d359b975f99379'}
+  - {seq: 2, filename: KR1d0076_002.yaml, hash: 'sha256:21611a0bb84acf2120f91165cffa7bfd298fde74e39927d1a8b4f4b61c6857df'}
+  - {seq: 3, filename: KR1d0076_003.yaml, hash: 'sha256:3d8ac48bfdb50c59e24d2229893aa50e2513e03ee9d3601808ab6cb32520cb00'}
+  - {seq: 4, filename: KR1d0076_004.yaml, hash: 'sha256:ee9fb6d7efd28b7c4cf569735afbc6146094a288e7c4557dedd5fc15898b1b4a'}
+  - {seq: 5, filename: KR1d0076_005.yaml, hash: 'sha256:2377cb2a016857efd214cb5f110eaa87f572bd903d30e89fb5ebd0b5d63db314'}
+  - {seq: 6, filename: KR1d0076_006.yaml, hash: 'sha256:81513335072c6d6267e925786cecf4799a347261a1a2169b57f68a40cf361425'}
+  - {seq: 7, filename: KR1d0076_007.yaml, hash: 'sha256:b213b4915b43d541ea3e1c5a2f0952981e10bc4f3da66eadb527a300b8dfd709'}
+  - {seq: 8, filename: KR1d0076_008.yaml, hash: 'sha256:9908ee387ae745783ecfd0cdbb5cef36ec7bed950b6f9b7c33ebeb2d551697bd'}
+  - {seq: 9, filename: KR1d0076_009.yaml, hash: 'sha256:533ad6698f2f3947df4cafe6027876b8499f1f97b1ea2f75e46841aa77e4e3c1'}
+  - {seq: 10, filename: KR1d0076_010.yaml, hash: 'sha256:d11c32d646245d3151bb321b12576e2768ea341ef0c94b1ca92b2d5185046bff'}
+  - {seq: 11, filename: KR1d0076_011.yaml, hash: 'sha256:3a285a07cd65da7fa40d1a9d01a11b6803ab679c13b53ffbedbc7c9b73d90e18'}
+  - {seq: 12, filename: KR1d0076_012.yaml, hash: 'sha256:72df91a53c8bab112c1fc7f06b24a2fdf50f15f2b50b2d3332335486f8ac07cc'}
+  - {seq: 13, filename: KR1d0076_013.yaml, hash: 'sha256:76ee7f092ae6f1c28babc313c51147ab188f1384d2db0a9c4003b099f21752d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1d0076_001.markers.yaml, hash: 'sha256:0531d69bea8349964fd7307e5b0a4e84bf50624888114747608198871cf2374c'}
+  - {seq: 2, role: markers, filename: assets/KR1d0076_002.markers.yaml, hash: 'sha256:9481d920012e14cf12866f8db100fee7d3acfae0b4142701807e8f2d3de49f04'}
+  - {seq: 3, role: markers, filename: assets/KR1d0076_003.markers.yaml, hash: 'sha256:aa39313f948b0163e692839cac5234cfd9838f8e9c53f20696d4ddab6a3f65d4'}
+  - {seq: 4, role: markers, filename: assets/KR1d0076_004.markers.yaml, hash: 'sha256:2de8a6ab926fc8aea18b0fbd3229ead056f0aac9e85c78bd9743d8a1f8b45b15'}
+  - {seq: 5, role: markers, filename: assets/KR1d0076_005.markers.yaml, hash: 'sha256:6a5197e0602fa4958dd9f17eb2178d9d8259ba4ecbccf5b5f2466c26d6920259'}
+  - {seq: 6, role: markers, filename: assets/KR1d0076_006.markers.yaml, hash: 'sha256:6e0e8a81b07791d9d52fb9b565fc75c500c9fbf9530d14636a3d2a6c3884d075'}
+  - {seq: 7, role: markers, filename: assets/KR1d0076_007.markers.yaml, hash: 'sha256:c4e2f43e9dc13cc0ed55f5b63bbac250efe4be4ebc0211e13ab8b92a12a848a5'}
+  - {seq: 8, role: markers, filename: assets/KR1d0076_008.markers.yaml, hash: 'sha256:de9bb6051e86e8d62e80c718bac9980ccc7c6844f6ee366dae43a8db73182e18'}
+  - {seq: 9, role: markers, filename: assets/KR1d0076_009.markers.yaml, hash: 'sha256:7c926b5a787155422985f1966da9312f578a97d8f52a9a3843ce8d7245874998'}
+  - {seq: 10, role: markers, filename: assets/KR1d0076_010.markers.yaml, hash: 'sha256:f25570d8a4f37d0101e0b57771965844e6819b9df72f3e10a87a458c03a31d33'}
+  - {seq: 11, role: markers, filename: assets/KR1d0076_011.markers.yaml, hash: 'sha256:cdc94a387924baa925e1d1270e881baab2bc323228b1015d86be7fd9edaec76e'}
+  - {seq: 12, role: markers, filename: assets/KR1d0076_012.markers.yaml, hash: 'sha256:41db8ca3e074b23ffa1568c46a3e55ba81c0fbfd314b4f2a7888337da5604257'}
+  - {seq: 13, role: markers, filename: assets/KR1d0076_013.markers.yaml, hash: 'sha256:225a5cf69d4b62b86037213e9c1bd720b006f8d0bfb2b04e8f5c791026b4922d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1d0076_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 3624
+  label: 大戴禮記卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1d0076_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3288
+  label: 大戴禮記卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1d0076_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 3249
+  label: 大戴禮記卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1d0076_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 3442
+  label: 大戴禮記卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1d0076_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 2326
+  label: 大戴禮記卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1d0076_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 2281
+  label: 大戴禮記卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1d0076_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 2755
+  label: 大戴禮記卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1d0076_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 2735
+  label: 大戴禮記卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1d0076_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 4234
+  label: 大戴禮記卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1d0076_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 3060
+  label: 大戴禮記卷第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1d0076_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 2592
+  label: 大戴禮記卷第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1d0076_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 2915
+  label: 大戴禮記卷第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR1d0076_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 2049
+  label: 大戴禮記卷第十三
+  type: section
+  level: 1
+hash: sha256:e0b779ea25704b81f08582c2fbc0e6534cf19745d47615abfe22011aedbdeb59
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
