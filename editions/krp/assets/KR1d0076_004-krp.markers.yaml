@@ -562,6 +562,7 @@ markers:
   - {type: variant, offset: 928, length: 1, content: 嗔, SBCK: 慎}
   - {type: punctuation, offset: 930, content: (, id: KR1d0076_krp_004-bkkpn1}
   - {type: variant, offset: 930, length: 16, content: 案嗔各本因注有慎字訛作慎今從方本, SBCK: ''}
+  - {type: voice, offset: 930, length: 16, name: note, id: n1}
   - {type: punctuation, offset: 938, content: /, id: KR1d0076_krp_004-bkkpn2}
   - {type: punctuation, offset: 946, content: ), id: KR1d0076_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 946, content: '
@@ -684,6 +685,7 @@ markers:
   - {type: variant, offset: 1126, length: 1, content: 遠, SBCK: 逺}
   - {type: punctuation, offset: 1129, content: (, id: KR1d0076_krp_004-bkkpn4}
   - {type: variant, offset: 1129, length: 6, content: 案此下各本衍, SBCK: ''}
+  - {type: voice, offset: 1129, length: 18, name: note, id: n2}
   - {type: variant, offset: 1136, length: 11, content: 字今從馬驌繹史所引訂正, SBCK: ''}
   - {type: punctuation, offset: 1138, content: /, id: KR1d0076_krp_004-bkkpn5}
   - {type: punctuation, offset: 1147, content: ), id: KR1d0076_krp_004-bkkpn6}
@@ -694,6 +696,7 @@ markers:
   - {type: line-break, offset: 1155, content: '', id: KR1d0076_WYG_004-8a05}
   - {type: punctuation, offset: 1155, content: (, id: KR1d0076_krp_004-bkkpn7}
   - {type: variant, offset: 1155, length: 14, content: 案霒古隂字各本訛作靈今從方本, SBCK: ''}
+  - {type: voice, offset: 1155, length: 14, name: note, id: n3}
   - {type: punctuation, offset: 1162, content: /, id: KR1d0076_krp_004-bkkpn8}
   - {type: punctuation, offset: 1169, content: ), id: KR1d0076_krp_004-bkkpn9}
   - {type: 'kr:newline', offset: 1169, content: '
@@ -833,6 +836,7 @@ markers:
   - {type: variant, offset: 1390, length: 1, content: 無, SBCK: 爲}
   - {type: punctuation, offset: 1392, content: (, id: KR1d0076_krp_004-bkkpn10}
   - {type: variant, offset: 1392, length: 11, content: 案無各本訛作為今從方本, SBCK: ''}
+  - {type: voice, offset: 1392, length: 11, name: note, id: n4}
   - {type: punctuation, offset: 1398, content: /, id: KR1d0076_krp_004-bkkpn11}
   - {type: punctuation, offset: 1403, content: ), id: KR1d0076_krp_004-bkkpn12}
   - {type: 'kr:newline', offset: 1403, content: '
@@ -915,6 +919,7 @@ markers:
   - {type: variant, offset: 1583, length: 3, content: 則無聞, SBCK: ''}
   - {type: punctuation, offset: 1587, content: (, id: KR1d0076_krp_004-bkkpn13}
   - {type: variant, offset: 1587, length: 20, content: 案各本脱則無聞三字今從舊本曾子書所引補正, SBCK: ''}
+  - {type: voice, offset: 1587, length: 20, name: note, id: n5}
   - {type: punctuation, offset: 1593, content: /, id: KR1d0076_krp_004-bkkpn14}
   - {type: punctuation, offset: 1599, content: ), id: KR1d0076_krp_004-bkkpn15}
   - {type: 'kr:newline', offset: 1599, content: '
@@ -935,6 +940,7 @@ markers:
   - {type: line-break, offset: 1610, content: '', id: KR1d0076_WYG_004-10b04}
   - {type: punctuation, offset: 1624, content: (, id: KR1d0076_krp_004-bkkpn19}
   - {type: variant, offset: 1624, length: 13, content: 案此與後勉于罪之勉皆當作免, SBCK: ''}
+  - {type: voice, offset: 1624, length: 13, name: note, id: n6}
   - {type: punctuation, offset: 1631, content: /, id: KR1d0076_krp_004-bkkpn20}
   - {type: punctuation, offset: 1637, content: ), id: KR1d0076_krp_004-bkkpn21}
   - {type: 'kr:newline', offset: 1637, content: '
@@ -1058,6 +1064,7 @@ markers:
   - {type: variant, offset: 1856, length: 1, content: 于, SBCK: 於}
   - {type: punctuation, offset: 1858, content: (, id: KR1d0076_krp_004-bkkpn22}
   - {type: variant, offset: 1858, length: 41, content: 案上注云言危于以身近之危與殆皆可作幾然之辭此注則大失正文之意殆于身之謂幾于身為之耳, SBCK: ''}
+  - {type: voice, offset: 1858, length: 41, name: note, id: n7}
   - {type: punctuation, offset: 1874, content: /, id: KR1d0076_krp_004-bkkpn23}
   - {type: punctuation, offset: 1890, content: ), id: KR1d0076_krp_004-bkkpn24}
   - {type: 'kr:newline', offset: 1890, content: '
@@ -1105,6 +1112,7 @@ markers:
   - {type: variant, offset: 1937, length: 1, content: 于, SBCK: 於}
   - {type: variant, offset: 1943, length: 219, content: 于身之矣案身之誤當作反之故目者心之浮也言者行之指也作于中則播于外也心行見于言目也故曰以其見者占其隱者謂心目也故曰聽其言也可以知其所好矣觀説之流可以知其術也流謂部分術謂心術久而復之可以知其信矣觀其所愛親可以知其人矣臨懼之而觀其不恐也怒之而觀其不惽也喜之而觀其不誣也惽亂也誣妄也近諸色而觀其不踰也飲食之而觀其有常也利之而觀其能讓也居哀而觀其貞也文王曰省其喪哀觀其貞良也居約而觀其不營也勤勞之案勤各本訛作動今從方本而觀其不擾人也君子之于不善也身, SBCK: 於}
   - {type: punctuation, offset: 1947, content: (, id: KR1d0076_krp_004-bkkpn28}
+  - {type: voice, offset: 1947, length: 8, name: note, id: n8}
   - {type: punctuation, offset: 1951, content: /, id: KR1d0076_krp_004-bkkpn29}
   - {type: punctuation, offset: 1955, content: ), id: KR1d0076_krp_004-bkkpn30}
   - {type: 'kr:newline', offset: 1961, content: '
@@ -1181,6 +1189,7 @@ markers:
       ', id: KR1d0076_krp_004-bkkkrnewl221}
   - {type: line-break, offset: 2125, content: '', id: KR1d0076_WYG_004-13a05}
   - {type: punctuation, offset: 2136, content: (, id: KR1d0076_krp_004-bkkpn31}
+  - {type: voice, offset: 2136, length: 11, name: note, id: n9}
   - {type: punctuation, offset: 2142, content: /, id: KR1d0076_krp_004-bkkpn32}
   - {type: punctuation, offset: 2147, content: ), id: KR1d0076_krp_004-bkkpn33}
   - {type: 'kr:newline', offset: 2151, content: '
@@ -1332,6 +1341,7 @@ markers:
   - {type: variant, offset: 2390, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 2393, content: (, id: KR1d0076_krp_004-bkkpn34}
   - {type: variant, offset: 2393, length: 10, content: 案二句與今本論語有異, SBCK: ''}
+  - {type: voice, offset: 2393, length: 10, name: note, id: n10}
   - {type: punctuation, offset: 2395, content: /, id: KR1d0076_krp_004-bkkpn35}
   - {type: punctuation, offset: 2397, content: ), id: KR1d0076_krp_004-bkkpn36}
   - {type: 'kr:newline', offset: 2397, content: '
@@ -1627,6 +1637,7 @@ markers:
   - {type: indent, offset: 2948, content: 　, id: KR1d0076_krp_004-bkkind122}
   - {type: punctuation, offset: 2958, content: (, id: KR1d0076_krp_004-bkkpn40}
   - {type: variant, offset: 2958, length: 6, content: 案此下有脱文, SBCK: ''}
+  - {type: voice, offset: 2958, length: 6, name: note, id: n11}
   - {type: punctuation, offset: 2961, content: /, id: KR1d0076_krp_004-bkkpn41}
   - {type: punctuation, offset: 2964, content: ), id: KR1d0076_krp_004-bkkpn42}
   - {type: 'kr:newline', offset: 2964, content: '
@@ -1721,6 +1732,7 @@ markers:
   - {type: variant, offset: 3143, length: 1, content: 于, SBCK: 於}
   - {type: punctuation, offset: 3146, content: (, id: KR1d0076_krp_004-bkkpn43}
   - {type: variant, offset: 3146, length: 12, content: 案子各本訛作之今從髙安本, SBCK: ''}
+  - {type: voice, offset: 3146, length: 12, name: note, id: n12}
   - {type: punctuation, offset: 3152, content: /, id: KR1d0076_krp_004-bkkpn44}
   - {type: punctuation, offset: 3158, content: ), id: KR1d0076_krp_004-bkkpn45}
   - {type: 'kr:newline', offset: 3165, content: '
@@ -2002,6 +2014,7 @@ markers:
   - {type: line-break, offset: 3815, content: '', id: KR1d0076_WYG_004-21b07}
   - {type: punctuation, offset: 3822, content: (, id: KR1d0076_krp_004-bkkpn46}
   - {type: variant, offset: 3822, length: 12, content: 案乎各本作其今從劉本舊注, SBCK: ''}
+  - {type: voice, offset: 3822, length: 27, name: note, id: n13}
   - {type: variant, offset: 3835, length: 1, content: 下, SBCK: 一}
   - {type: punctuation, offset: 3836, content: /, id: KR1d0076_krp_004-bkkpn47}
   - {type: variant, offset: 3838, length: 11, content: 乃校書者所加非盧氏注文, SBCK: ''}
@@ -2012,6 +2025,7 @@ markers:
   - {type: line-break, offset: 3849, content: '', id: KR1d0076_WYG_004-21b08}
   - {type: variant, offset: 3857, length: 6, content: 香案鮮下舊注, SBCK: ''}
   - {type: punctuation, offset: 3858, content: (, id: KR1d0076_krp_004-bkkpn49}
+  - {type: voice, offset: 3858, length: 14, name: note, id: n14}
   - {type: punctuation, offset: 3865, content: /, id: KR1d0076_krp_004-bkkpn50}
   - {type: variant, offset: 3866, length: 7, content: 亦校書者所加嘗, SBCK: 香甞}
   - {type: punctuation, offset: 3872, content: ), id: KR1d0076_krp_004-bkkpn51}
@@ -2075,6 +2089,7 @@ markers:
   - {type: line-break, offset: 3978, content: '', id: KR1d0076_WYG_004-22b01}
   - {type: punctuation, offset: 3979, content: (, id: KR1d0076_krp_004-bkkpn52}
   - {type: variant, offset: 3979, length: 14, content: 案慎下舊注一作順亦校書者所加, SBCK: ''}
+  - {type: voice, offset: 3979, length: 14, name: note, id: n15}
   - {type: punctuation, offset: 3986, content: /, id: KR1d0076_krp_004-bkkpn53}
   - {type: punctuation, offset: 3993, content: ), id: KR1d0076_krp_004-bkkpn54}
   - {type: 'kr:newline', offset: 4004, content: '
@@ -2092,6 +2107,7 @@ markers:
   - {type: variant, offset: 4023, length: 1, content: 忠, SBCK: 中}
   - {type: punctuation, offset: 4027, content: (, id: KR1d0076_krp_004-bkkpn55}
   - {type: variant, offset: 4027, length: 12, content: 案忠此各本作中此今從方本, SBCK: ''}
+  - {type: voice, offset: 4027, length: 12, name: note, id: n16}
   - {type: punctuation, offset: 4029, content: /, id: KR1d0076_krp_004-bkkpn56}
   - {type: punctuation, offset: 4031, content: ), id: KR1d0076_krp_004-bkkpn57}
   - {type: 'kr:newline', offset: 4031, content: '
@@ -2682,4 +2698,4 @@ markers:
 
       ', id: KR1d0076_krp_004-bkkkrnewl504}
   back: []
-hash: sha256:e28243773d047baf0f248249098c122869bb44f6a697b670dfb4505e06f0f402
+hash: sha256:b2ac9d280e80719b248245e4f4ea400602e34491e0d49b6ab2243b684cdad0af

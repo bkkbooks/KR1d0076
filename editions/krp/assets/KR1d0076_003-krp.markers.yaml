@@ -92,6 +92,7 @@ markers:
   - {type: line-break, offset: 90, content: '', id: KR1d0076_WYG_003-1b06}
   - {type: variant, offset: 101, length: 12, content: 迺生因舉以禮案各本作太子, SBCK: ''}
   - {type: punctuation, offset: 107, content: (, id: KR1d0076_krp_003-bkkpn1}
+  - {type: voice, offset: 107, length: 50, name: note, id: n1}
   - {type: punctuation, offset: 111, content: /, id: KR1d0076_krp_003-bkkpn2}
   - {type: punctuation, offset: 115, content: ), id: KR1d0076_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 115, content: '
@@ -129,6 +130,7 @@ markers:
   - {type: variant, offset: 173, length: 2, content: 齊肅, SBCK: 叅夙興}
   - {type: punctuation, offset: 177, content: (, id: KR1d0076_krp_003-bkkpn7}
   - {type: variant, offset: 177, length: 19, content: 案齊肅各本訛作參夙興今據李彪傳所引改正, SBCK: ''}
+  - {type: voice, offset: 177, length: 19, name: note, id: n2}
   - {type: punctuation, offset: 187, content: /, id: KR1d0076_krp_003-bkkpn8}
   - {type: punctuation, offset: 196, content: ), id: KR1d0076_krp_003-bkkpn9}
   - {type: 'kr:newline', offset: 201, content: '
@@ -143,6 +145,7 @@ markers:
   - {type: indent, offset: 204, content: 　, id: KR1d0076_krp_003-bkkind13}
   - {type: variant, offset: 204, length: 8, content: 齊肅案各本訛作參, SBCK: 叅}
   - {type: punctuation, offset: 206, content: (, id: KR1d0076_krp_003-bkkpn10}
+  - {type: voice, offset: 206, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 211, content: /, id: KR1d0076_krp_003-bkkpn11}
   - {type: variant, offset: 213, length: 3, content: 今訂正, SBCK: ''}
   - {type: punctuation, offset: 216, content: ), id: KR1d0076_krp_003-bkkpn12}
@@ -173,6 +176,7 @@ markers:
   - {type: variant, offset: 243, length: 1, content: 闕, SBCK: 􅏱}
   - {type: punctuation, offset: 246, content: (, id: KR1d0076_krp_003-bkkpn13}
   - {type: variant, offset: 246, length: 17, content: 案逕各本訛作遥今據儀禮經傳通解改正, SBCK: ''}
+  - {type: voice, offset: 246, length: 17, name: note, id: n4}
   - {type: punctuation, offset: 255, content: /, id: KR1d0076_krp_003-bkkpn14}
   - {type: punctuation, offset: 263, content: ), id: KR1d0076_krp_003-bkkpn15}
   - {type: 'kr:newline', offset: 267, content: '
@@ -362,6 +366,7 @@ markers:
   - {type: variant, offset: 689, length: 1, content: 天, SBCK: ''}
   - {type: punctuation, offset: 691, content: (, id: KR1d0076_krp_003-bkkpn16}
   - {type: variant, offset: 691, length: 11, content: 案他本脱去天字今從劉本, SBCK: ''}
+  - {type: voice, offset: 691, length: 11, name: note, id: n5}
   - {type: punctuation, offset: 697, content: /, id: KR1d0076_krp_003-bkkpn17}
   - {type: punctuation, offset: 702, content: ), id: KR1d0076_krp_003-bkkpn18}
   - {type: variant, offset: 705, length: 1, content: 為, SBCK: 爲}
@@ -396,6 +401,7 @@ markers:
   - {type: line-break, offset: 754, content: '', id: KR1d0076_WYG_003-4b04}
   - {type: variant, offset: 765, length: 15, content: 學學者所學之官也案各本作則入于, SBCK: ''}
   - {type: punctuation, offset: 773, content: (, id: KR1d0076_krp_003-bkkpn19}
+  - {type: voice, offset: 773, length: 27, name: note, id: n6}
   - {type: punctuation, offset: 775, content: /, id: KR1d0076_krp_003-bkkpn20}
   - {type: punctuation, offset: 777, content: ), id: KR1d0076_krp_003-bkkpn21}
   - {type: 'kr:newline', offset: 777, content: '
@@ -487,6 +493,7 @@ markers:
   - {type: variant, offset: 1017, length: 1, content: 黎, SBCK: 􅀺}
   - {type: variant, offset: 1020, length: 9, content: 輯于下矣案輯下舊注, SBCK: 緝}
   - {type: punctuation, offset: 1024, content: (, id: KR1d0076_krp_003-bkkpn25}
+  - {type: voice, offset: 1024, length: 20, name: note, id: n7}
   - {type: variant, offset: 1033, length: 11, content: 乃校書者所加非盧氏注文, SBCK: 於下矣}
   - {type: punctuation, offset: 1034, content: /, id: KR1d0076_krp_003-bkkpn26}
   - {type: punctuation, offset: 1044, content: ), id: KR1d0076_krp_003-bkkpn27}
@@ -509,6 +516,7 @@ markers:
       ', id: KR1d0076_krp_003-bkkkrnewl85}
   - {type: line-break, offset: 1095, content: '', id: KR1d0076_WYG_003-5b05}
   - {type: punctuation, offset: 1098, content: (, id: KR1d0076_krp_003-bkkpn28}
+  - {type: voice, offset: 1098, length: 12, name: note, id: n8}
   - {type: punctuation, offset: 1104, content: /, id: KR1d0076_krp_003-bkkpn29}
   - {type: punctuation, offset: 1110, content: ), id: KR1d0076_krp_003-bkkpn30}
   - {type: 'kr:newline', offset: 1110, content: '
@@ -534,6 +542,7 @@ markers:
       ', id: KR1d0076_krp_003-bkkkrnewl90}
   - {type: line-break, offset: 1154, content: '', id: KR1d0076_WYG_003-6a01}
   - {type: punctuation, offset: 1161, content: (, id: KR1d0076_krp_003-bkkpn31}
+  - {type: voice, offset: 1161, length: 21, name: note, id: n9}
   - {type: punctuation, offset: 1172, content: /, id: KR1d0076_krp_003-bkkpn32}
   - {type: punctuation, offset: 1182, content: ), id: KR1d0076_krp_003-bkkpn33}
   - {type: 'kr:newline', offset: 1185, content: '
@@ -642,6 +651,7 @@ markers:
   - {type: variant, offset: 1394, length: 1, content: 别, SBCK: 臣}
   - {type: punctuation, offset: 1396, content: (, id: KR1d0076_krp_003-bkkpn34}
   - {type: variant, offset: 1396, length: 14, content: 案别各本訛作臣今從永樂大典本, SBCK: ''}
+  - {type: voice, offset: 1396, length: 14, name: note, id: n10}
   - {type: punctuation, offset: 1403, content: /, id: KR1d0076_krp_003-bkkpn35}
   - {type: punctuation, offset: 1410, content: ), id: KR1d0076_krp_003-bkkpn36}
   - {type: 'kr:newline', offset: 1410, content: '
@@ -675,6 +685,7 @@ markers:
   - {type: variant, offset: 1459, length: 1, content: 步, SBCK: 歩}
   - {type: punctuation, offset: 1463, content: (, id: KR1d0076_krp_003-bkkpn37}
   - {type: variant, offset: 1463, length: 5, content: 案此下舊注, SBCK: ''}
+  - {type: voice, offset: 1463, length: 18, name: note, id: n11}
   - {type: variant, offset: 1471, length: 10, content: 乃校書者語非盧氏注文, SBCK: ''}
   - {type: punctuation, offset: 1472, content: /, id: KR1d0076_krp_003-bkkpn38}
   - {type: punctuation, offset: 1481, content: ), id: KR1d0076_krp_003-bkkpn39}
@@ -728,6 +739,7 @@ markers:
   - {type: variant, offset: 1577, length: 1, content: 之, SBCK: ''}
   - {type: punctuation, offset: 1580, content: (, id: KR1d0076_krp_003-bkkpn40}
   - {type: variant, offset: 1580, length: 14, content: 案各本脱之字今從永樂大典本于, SBCK: 於}
+  - {type: voice, offset: 1580, length: 13, name: note, id: n12}
   - {type: punctuation, offset: 1587, content: /, id: KR1d0076_krp_003-bkkpn41}
   - {type: punctuation, offset: 1593, content: ), id: KR1d0076_krp_003-bkkpn42}
   - {type: 'kr:newline', offset: 1593, content: '
@@ -804,6 +816,7 @@ markers:
   - {type: line-break, offset: 1700, content: '', id: KR1d0076_WYG_003-8b05}
   - {type: punctuation, offset: 1705, content: (, id: KR1d0076_krp_003-bkkpn43}
   - {type: variant, offset: 1705, length: 16, content: 案位當作禮與上所引學禮皆古禮逸篇, SBCK: ''}
+  - {type: voice, offset: 1705, length: 16, name: note, id: n13}
   - {type: punctuation, offset: 1713, content: /, id: KR1d0076_krp_003-bkkpn44}
   - {type: punctuation, offset: 1721, content: ), id: KR1d0076_krp_003-bkkpn45}
   - {type: 'kr:newline', offset: 1729, content: '
@@ -889,6 +902,7 @@ markers:
   - {type: variant, offset: 1950, length: 1, content: 乆, SBCK: 久}
   - {type: punctuation, offset: 1952, content: (, id: KR1d0076_krp_003-bkkpn46}
   - {type: variant, offset: 1952, length: 11, content: 案所各本訛作前今從方本, SBCK: ''}
+  - {type: voice, offset: 1952, length: 11, name: note, id: n14}
   - {type: punctuation, offset: 1958, content: /, id: KR1d0076_krp_003-bkkpn47}
   - {type: punctuation, offset: 1963, content: ), id: KR1d0076_krp_003-bkkpn48}
   - {type: 'kr:newline', offset: 1967, content: '
@@ -965,6 +979,7 @@ markers:
   - {type: variant, offset: 2147, length: 1, content: 而, SBCK: 如}
   - {type: punctuation, offset: 2151, content: (, id: KR1d0076_krp_003-bkkpn49}
   - {type: variant, offset: 2151, length: 10, content: 案而各本作如今從方本, SBCK: ''}
+  - {type: voice, offset: 2151, length: 10, name: note, id: n15}
   - {type: punctuation, offset: 2155, content: /, id: KR1d0076_krp_003-bkkpn50}
   - {type: punctuation, offset: 2159, content: ), id: KR1d0076_krp_003-bkkpn51}
   - {type: 'kr:newline', offset: 2159, content: '
@@ -1001,6 +1016,7 @@ markers:
   - {type: variant, offset: 2210, length: 1, content: 而, SBCK: 如}
   - {type: punctuation, offset: 2214, content: (, id: KR1d0076_krp_003-bkkpn55}
   - {type: variant, offset: 2214, length: 10, content: 案而各本作如今從方本, SBCK: ''}
+  - {type: voice, offset: 2214, length: 10, name: note, id: n16}
   - {type: punctuation, offset: 2219, content: /, id: KR1d0076_krp_003-bkkpn56}
   - {type: punctuation, offset: 2224, content: ), id: KR1d0076_krp_003-bkkpn57}
   - {type: variant, offset: 2231, length: 1, content: 世, SBCK: 丗}
@@ -1014,6 +1030,7 @@ markers:
   - {type: line-break, offset: 2255, content: '', id: KR1d0076_WYG_003-10b04}
   - {type: variant, offset: 2262, length: 6, content: 變案各本訛作, SBCK: ''}
   - {type: punctuation, offset: 2263, content: (, id: KR1d0076_krp_003-bkkpn58}
+  - {type: voice, offset: 2263, length: 13, name: note, id: n17}
   - {type: variant, offset: 2269, length: 7, content: 今従方本及漢書, SBCK: ''}
   - {type: punctuation, offset: 2270, content: /, id: KR1d0076_krp_003-bkkpn59}
   - {type: punctuation, offset: 2276, content: ), id: KR1d0076_krp_003-bkkpn60}
@@ -1057,6 +1074,7 @@ markers:
   - {type: variant, offset: 2378, length: 0, content: '', SBCK: 相}
   - {type: punctuation, offset: 2379, content: (, id: KR1d0076_krp_003-bkkpn61}
   - {type: variant, offset: 2379, length: 20, content: 案絫各本訛作參能下各本有相字今從方本劉本, SBCK: ''}
+  - {type: voice, offset: 2379, length: 20, name: note, id: n18}
   - {type: punctuation, offset: 2389, content: /, id: KR1d0076_krp_003-bkkpn62}
   - {type: punctuation, offset: 2399, content: ), id: KR1d0076_krp_003-bkkpn63}
   - {type: 'kr:newline', offset: 2401, content: '
@@ -1120,6 +1138,7 @@ markers:
   - {type: variant, offset: 2531, length: 1, content: 諭, SBCK: 論}
   - {type: punctuation, offset: 2537, content: (, id: KR1d0076_krp_003-bkkpn64}
   - {type: variant, offset: 2537, length: 14, content: 案諭各本訛作論今從方本及漢書, SBCK: ''}
+  - {type: voice, offset: 2537, length: 14, name: note, id: n19}
   - {type: punctuation, offset: 2544, content: /, id: KR1d0076_krp_003-bkkpn65}
   - {type: punctuation, offset: 2551, content: ), id: KR1d0076_krp_003-bkkpn66}
   - {type: 'kr:newline', offset: 2556, content: '
@@ -1149,6 +1168,7 @@ markers:
   - {type: variant, offset: 2623, length: 1, content: 刑, SBCK: 制}
   - {type: punctuation, offset: 2625, content: (, id: KR1d0076_krp_003-bkkpn67}
   - {type: variant, offset: 2625, length: 21, content: 案刑各本訛作制今據儀禮經傳通解訂正此下舊注, SBCK: ''}
+  - {type: voice, offset: 2625, length: 36, name: note, id: n20}
   - {type: punctuation, offset: 2640, content: /, id: KR1d0076_krp_003-bkkpn68}
   - {type: variant, offset: 2647, length: 1, content: 一, SBCK: ''}
   - {type: variant, offset: 2650, length: 11, content: 乃校書者所加非盧氏注文, SBCK: ''}
@@ -1189,6 +1209,7 @@ markers:
   - {type: variant, offset: 2707, length: 1, content: 遠, SBCK: 逺}
   - {type: punctuation, offset: 2710, content: (, id: KR1d0076_krp_003-bkkpn73}
   - {type: variant, offset: 2710, length: 16, content: 案遴吝古字通用各本訛作鄰今從方本, SBCK: ''}
+  - {type: voice, offset: 2710, length: 16, name: note, id: n21}
   - {type: punctuation, offset: 2718, content: /, id: KR1d0076_krp_003-bkkpn74}
   - {type: punctuation, offset: 2726, content: ), id: KR1d0076_krp_003-bkkpn75}
   - {type: 'kr:newline', offset: 2729, content: '
@@ -1209,6 +1230,7 @@ markers:
   - {type: variant, offset: 2754, length: 1, content: 其, SBCK: 之}
   - {type: punctuation, offset: 2756, content: (, id: KR1d0076_krp_003-bkkpn76}
   - {type: variant, offset: 2756, length: 11, content: 案其各本訛作之今從方本, SBCK: ''}
+  - {type: voice, offset: 2756, length: 11, name: note, id: n22}
   - {type: punctuation, offset: 2762, content: /, id: KR1d0076_krp_003-bkkpn77}
   - {type: punctuation, offset: 2767, content: ), id: KR1d0076_krp_003-bkkpn78}
   - {type: 'kr:newline', offset: 2772, content: '
@@ -1243,6 +1265,7 @@ markers:
   - {type: page-break, offset: 2824, content: '', id: KR1d0076_SBCK_003-7a}
   - {type: punctuation, offset: 2827, content: (, id: KR1d0076_krp_003-bkkpn79}
   - {type: variant, offset: 2827, length: 11, content: 案妄各本訛作安今從方本, SBCK: ''}
+  - {type: voice, offset: 2827, length: 11, name: note, id: n23}
   - {type: punctuation, offset: 2830, content: /, id: KR1d0076_krp_003-bkkpn80}
   - {type: punctuation, offset: 2833, content: ), id: KR1d0076_krp_003-bkkpn81}
   - {type: 'kr:newline', offset: 2833, content: '
@@ -1315,6 +1338,7 @@ markers:
   - {type: line-break, offset: 2943, content: '', id: KR1d0076_WYG_003-13a06}
   - {type: punctuation, offset: 2963, content: (, id: KR1d0076_krp_003-bkkpn85}
   - {type: variant, offset: 2963, length: 6, content: 案此下各本衍, SBCK: ''}
+  - {type: voice, offset: 2963, length: 12, name: note, id: n24}
   - {type: punctuation, offset: 2964, content: /, id: KR1d0076_krp_003-bkkpn86}
   - {type: punctuation, offset: 2965, content: ), id: KR1d0076_krp_003-bkkpn87}
   - {type: 'kr:newline', offset: 2965, content: '
@@ -1342,6 +1366,7 @@ markers:
   - {type: variant, offset: 2992, length: 1, content: 説, SBCK: 􅀃}
   - {type: punctuation, offset: 3001, content: (, id: KR1d0076_krp_003-bkkpn91}
   - {type: variant, offset: 3001, length: 8, content: 案集通解云當作譙, SBCK: ''}
+  - {type: voice, offset: 3001, length: 8, name: note, id: n25}
   - {type: punctuation, offset: 3005, content: /, id: KR1d0076_krp_003-bkkpn92}
   - {type: punctuation, offset: 3009, content: ), id: KR1d0076_krp_003-bkkpn93}
   - {type: 'kr:newline', offset: 3015, content: '
@@ -1351,6 +1376,7 @@ markers:
   - {type: variant, offset: 3026, length: 1, content: 而, SBCK: 如}
   - {type: punctuation, offset: 3028, content: (, id: KR1d0076_krp_003-bkkpn94}
   - {type: variant, offset: 3028, length: 10, content: 案而各本作如今從方本, SBCK: ''}
+  - {type: voice, offset: 3028, length: 10, name: note, id: n26}
   - {type: punctuation, offset: 3033, content: /, id: KR1d0076_krp_003-bkkpn95}
   - {type: punctuation, offset: 3038, content: ), id: KR1d0076_krp_003-bkkpn96}
   - {type: 'kr:newline', offset: 3038, content: '
@@ -1369,6 +1395,7 @@ markers:
   - {type: indent, offset: 3045, content: 　, id: KR1d0076_krp_003-bkkind88}
   - {type: variant, offset: 3048, length: 14, content: 也案儀禮經傳通解作過于樂也飲, SBCK: 飮}
   - {type: punctuation, offset: 3049, content: (, id: KR1d0076_krp_003-bkkpn97}
+  - {type: voice, offset: 3049, length: 12, name: note, id: n27}
   - {type: punctuation, offset: 3055, content: /, id: KR1d0076_krp_003-bkkpn98}
   - {type: punctuation, offset: 3061, content: ), id: KR1d0076_krp_003-bkkpn99}
   - {type: 'kr:newline', offset: 3061, content: '
@@ -1450,10 +1477,12 @@ markers:
   - {type: line-break, offset: 3153, content: '', id: KR1d0076_WYG_003-14b02}
   - {type: punctuation, offset: 3161, content: (, id: KR1d0076_krp_003-bkkpn100}
   - {type: variant, offset: 3161, length: 7, content: 案誦頌古通用迭, SBCK: 送}
+  - {type: voice, offset: 3161, length: 6, name: note, id: n28}
   - {type: punctuation, offset: 3164, content: /, id: KR1d0076_krp_003-bkkpn101}
   - {type: punctuation, offset: 3167, content: ), id: KR1d0076_krp_003-bkkpn102}
   - {type: punctuation, offset: 3170, content: (, id: KR1d0076_krp_003-bkkpn103}
   - {type: variant, offset: 3170, length: 11, content: 案迭各本訛作送今從方本, SBCK: ''}
+  - {type: voice, offset: 3170, length: 11, name: note, id: n29}
   - {type: punctuation, offset: 3176, content: /, id: KR1d0076_krp_003-bkkpn104}
   - {type: punctuation, offset: 3181, content: ), id: KR1d0076_krp_003-bkkpn105}
   - {type: 'kr:newline', offset: 3181, content: '
@@ -1547,6 +1576,7 @@ markers:
   - {type: line-break, offset: 3395, content: '', id: KR1d0076_WYG_003-15b01}
   - {type: variant, offset: 3395, length: 20, content: 素成案下云故曰素成則此二字目下之辭各本作, SBCK: ''}
   - {type: punctuation, offset: 3397, content: (, id: KR1d0076_krp_003-bkkpn106}
+  - {type: voice, offset: 3397, length: 29, name: note, id: n30}
   - {type: punctuation, offset: 3412, content: /, id: KR1d0076_krp_003-bkkpn107}
   - {type: variant, offset: 3419, length: 7, content: 因訛致衍今訂正, SBCK: ''}
   - {type: punctuation, offset: 3426, content: ), id: KR1d0076_krp_003-bkkpn108}
@@ -1559,6 +1589,7 @@ markers:
   - {type: variant, offset: 3439, length: 1, content: 世, SBCK: 丗}
   - {type: punctuation, offset: 3444, content: (, id: KR1d0076_krp_003-bkkpn109}
   - {type: variant, offset: 3444, length: 12, content: 案行下他本衍仁字今從劉本, SBCK: ''}
+  - {type: voice, offset: 3444, length: 12, name: note, id: n31}
   - {type: punctuation, offset: 3450, content: /, id: KR1d0076_krp_003-bkkpn110}
   - {type: punctuation, offset: 3456, content: ), id: KR1d0076_krp_003-bkkpn111}
   - {type: 'kr:newline', offset: 3457, content: '
@@ -1567,6 +1598,7 @@ markers:
   - {type: line-break, offset: 3457, content: '', id: KR1d0076_WYG_003-15b03}
   - {type: punctuation, offset: 3464, content: (, id: KR1d0076_krp_003-bkkpn112}
   - {type: variant, offset: 3464, length: 11, content: 案他本脱去其字今從劉本, SBCK: ''}
+  - {type: voice, offset: 3464, length: 11, name: note, id: n32}
   - {type: punctuation, offset: 3470, content: /, id: KR1d0076_krp_003-bkkpn113}
   - {type: punctuation, offset: 3475, content: ), id: KR1d0076_krp_003-bkkpn114}
   - {type: variant, offset: 3478, length: 1, content: 暴, SBCK: 􅁀}
@@ -1628,6 +1660,7 @@ markers:
   - {type: line-break, offset: 3590, content: '', id: KR1d0076_WYG_003-16a05}
   - {type: punctuation, offset: 3596, content: (, id: KR1d0076_krp_003-bkkpn115}
   - {type: variant, offset: 3596, length: 6, content: 案此下舊注一, SBCK: 上}
+  - {type: voice, offset: 3596, length: 20, name: note, id: n33}
   - {type: punctuation, offset: 3606, content: /, id: KR1d0076_krp_003-bkkpn116}
   - {type: variant, offset: 3606, length: 10, content: 乃校書者語非盧氏注文, SBCK: ''}
   - {type: punctuation, offset: 3616, content: ), id: KR1d0076_krp_003-bkkpn117}
@@ -1678,6 +1711,7 @@ markers:
   - {type: variant, offset: 3715, length: 1, content: 户, SBCK: 戸}
   - {type: punctuation, offset: 3717, content: (, id: KR1d0076_krp_003-bkkpn118}
   - {type: variant, offset: 3717, length: 13, content: 案師各本訛作史今據通解訂正, SBCK: ''}
+  - {type: voice, offset: 3717, length: 13, name: note, id: n34}
   - {type: punctuation, offset: 3724, content: /, id: KR1d0076_krp_003-bkkpn119}
   - {type: punctuation, offset: 3730, content: ), id: KR1d0076_krp_003-bkkpn120}
   - {type: 'kr:newline', offset: 3736, content: '
@@ -1827,6 +1861,7 @@ markers:
   - {type: variant, offset: 3983, length: 2, content: 外舎, SBCK: ''}
   - {type: variant, offset: 3988, length: 28, content: 虎闈師保之學也案各本脱外舎二字今從永樂大典本補虎闈各本作, SBCK: ''}
   - {type: punctuation, offset: 3995, content: (, id: KR1d0076_krp_003-bkkpn121}
+  - {type: voice, offset: 3995, length: 44, name: note, id: n35}
   - {type: punctuation, offset: 4003, content: /, id: KR1d0076_krp_003-bkkpn122}
   - {type: punctuation, offset: 4011, content: ), id: KR1d0076_krp_003-bkkpn123}
   - {type: 'kr:newline', offset: 4011, content: '
@@ -1980,6 +2015,7 @@ markers:
   - {type: variant, offset: 4336, length: 1, content: 環, SBCK: 還}
   - {type: variant, offset: 4342, length: 6, content: 之案此下舊注, SBCK: ''}
   - {type: punctuation, offset: 4343, content: (, id: KR1d0076_krp_003-bkkpn127}
+  - {type: voice, offset: 4343, length: 19, name: note, id: n36}
   - {type: punctuation, offset: 4344, content: /, id: KR1d0076_krp_003-bkkpn128}
   - {type: punctuation, offset: 4345, content: ), id: KR1d0076_krp_003-bkkpn129}
   - {type: 'kr:newline', offset: 4345, content: '
@@ -2048,6 +2084,7 @@ markers:
   - {type: variant, offset: 4475, length: 1, content: 于, SBCK: 於}
   - {type: variant, offset: 4480, length: 7, content: 跂案此下舊注跂, SBCK: 􅉥􅉥}
   - {type: punctuation, offset: 4481, content: (, id: KR1d0076_krp_003-bkkpn133}
+  - {type: voice, offset: 4481, length: 19, name: note, id: n37}
   - {type: punctuation, offset: 4490, content: /, id: KR1d0076_krp_003-bkkpn134}
   - {type: variant, offset: 4490, length: 10, content: 乃校書者語非盧氏注文, SBCK: ''}
   - {type: punctuation, offset: 4499, content: ), id: KR1d0076_krp_003-bkkpn135}
@@ -2153,6 +2190,7 @@ markers:
   - {type: line-break, offset: 4682, content: '', id: KR1d0076_WYG_003-21a03}
   - {type: punctuation, offset: 4687, content: (, id: KR1d0076_krp_003-bkkpn139}
   - {type: variant, offset: 4687, length: 6, content: 案此下各本衍, SBCK: ''}
+  - {type: voice, offset: 4687, length: 14, name: note, id: n38}
   - {type: punctuation, offset: 4694, content: /, id: KR1d0076_krp_003-bkkpn140}
   - {type: variant, offset: 4694, length: 7, content: 字今從劉本方本, SBCK: ''}
   - {type: punctuation, offset: 4701, content: ), id: KR1d0076_krp_003-bkkpn141}
@@ -2373,6 +2411,7 @@ markers:
   - {type: variant, offset: 5192, length: 1, content: 于, SBCK: 於}
   - {type: punctuation, offset: 5194, content: (, id: KR1d0076_krp_003-bkkpn142}
   - {type: variant, offset: 5194, length: 5, content: 案此下舊注, SBCK: ''}
+  - {type: voice, offset: 5194, length: 37, name: note, id: n39}
   - {type: punctuation, offset: 5200, content: /, id: KR1d0076_krp_003-bkkpn143}
   - {type: variant, offset: 5203, length: 12, content: 乃校書者語非盧氏注文槀即, SBCK: ''}
   - {type: punctuation, offset: 5206, content: ), id: KR1d0076_krp_003-bkkpn144}
@@ -2415,6 +2454,7 @@ markers:
   - {type: variant, offset: 5286, length: 1, content: 秦, SBCK: ''}
   - {type: punctuation, offset: 5291, content: (, id: KR1d0076_krp_003-bkkpn148}
   - {type: variant, offset: 5291, length: 10, content: 案各本脱秦字今從方本, SBCK: ''}
+  - {type: voice, offset: 5291, length: 10, name: note, id: n40}
   - {type: punctuation, offset: 5296, content: /, id: KR1d0076_krp_003-bkkpn149}
   - {type: punctuation, offset: 5301, content: ), id: KR1d0076_krp_003-bkkpn150}
   - {type: variant, offset: 5302, length: 1, content: 世, SBCK: 丗}
@@ -3045,6 +3085,7 @@ markers:
   - {type: line-break, offset: 6676, content: '', id: KR1d0076_WYG_003-29a01}
   - {type: variant, offset: 6682, length: 11, content: 之案各本脱之字今從方本, SBCK: ''}
   - {type: punctuation, offset: 6683, content: (, id: KR1d0076_krp_003-bkkpn151}
+  - {type: voice, offset: 6683, length: 10, name: note, id: n41}
   - {type: punctuation, offset: 6688, content: /, id: KR1d0076_krp_003-bkkpn152}
   - {type: punctuation, offset: 6693, content: ), id: KR1d0076_krp_003-bkkpn153}
   - {type: variant, offset: 6694, length: 1, content: 喪, SBCK: 䘮}
@@ -3164,6 +3205,7 @@ markers:
   - {type: variant, offset: 6945, length: 1, content: 魏, SBCK: ''}
   - {type: punctuation, offset: 6947, content: (, id: KR1d0076_krp_003-bkkpn154}
   - {type: variant, offset: 6947, length: 19, content: 案各本自訛作以脱魏字今從方本及賈誼新書, SBCK: ''}
+  - {type: voice, offset: 6947, length: 19, name: note, id: n42}
   - {type: punctuation, offset: 6953, content: /, id: KR1d0076_krp_003-bkkpn155}
   - {type: punctuation, offset: 6959, content: ), id: KR1d0076_krp_003-bkkpn156}
   - {type: 'kr:newline', offset: 6959, content: '
@@ -3234,6 +3276,7 @@ markers:
   - {type: variant, offset: 7087, length: 1, content: 度, SBCK: 支}
   - {type: punctuation, offset: 7091, content: (, id: KR1d0076_krp_003-bkkpn160}
   - {type: variant, offset: 7091, length: 11, content: 案度各本訛作支今從方本, SBCK: ''}
+  - {type: voice, offset: 7091, length: 11, name: note, id: n43}
   - {type: punctuation, offset: 7097, content: /, id: KR1d0076_krp_003-bkkpn161}
   - {type: punctuation, offset: 7102, content: ), id: KR1d0076_krp_003-bkkpn162}
   - {type: variant, offset: 7108, length: 1, content: 而, SBCK: 如}
@@ -3244,6 +3287,7 @@ markers:
   - {type: variant, offset: 7115, length: 1, content: 于, SBCK: 於}
   - {type: punctuation, offset: 7118, content: (, id: KR1d0076_krp_003-bkkpn163}
   - {type: variant, offset: 7118, length: 10, content: 案而各本作知今從方本, SBCK: ''}
+  - {type: voice, offset: 7118, length: 10, name: note, id: n44}
   - {type: punctuation, offset: 7123, content: /, id: KR1d0076_krp_003-bkkpn164}
   - {type: punctuation, offset: 7128, content: ), id: KR1d0076_krp_003-bkkpn165}
   - {type: 'kr:newline', offset: 7132, content: '
@@ -3271,6 +3315,7 @@ markers:
   - {type: variant, offset: 7173, length: 1, content: 恒, SBCK: 宜}
   - {type: punctuation, offset: 7177, content: (, id: KR1d0076_krp_003-bkkpn166}
   - {type: variant, offset: 7177, length: 11, content: 案恒各本訛作宜今從方本, SBCK: ''}
+  - {type: voice, offset: 7177, length: 11, name: note, id: n45}
   - {type: punctuation, offset: 7183, content: /, id: KR1d0076_krp_003-bkkpn167}
   - {type: punctuation, offset: 7188, content: ), id: KR1d0076_krp_003-bkkpn168}
   - {type: 'kr:newline', offset: 7192, content: '
@@ -3330,6 +3375,7 @@ markers:
   - {type: line-break, offset: 7322, content: '', id: KR1d0076_WYG_003-31b02}
   - {type: punctuation, offset: 7322, content: (, id: KR1d0076_krp_003-bkkpn169}
   - {type: variant, offset: 7322, length: 38, content: 案此條有脱文賈誼新書云夫聖人之于聖者之死尚如比其厚也況當世存者乎其弗失可知矣, SBCK: ''}
+  - {type: voice, offset: 7322, length: 38, name: note, id: n46}
   - {type: punctuation, offset: 7341, content: /, id: KR1d0076_krp_003-bkkpn170}
   - {type: punctuation, offset: 7360, content: ), id: KR1d0076_krp_003-bkkpn171}
   - {type: 'kr:newline', offset: 7360, content: '
@@ -3370,4 +3416,4 @@ markers:
 
       ', id: KR1d0076_krp_003-bkkkrnewl557}
   back: []
-hash: sha256:126e7d95927a32b6a5aadc5b7589702b219c7b6ea5c0dbaab0fb462d25693917
+hash: sha256:5af13e89ad8cd8d0a7d2b5b040850d07d0e2c8f682ca031dc3e5083c9ed4ed82

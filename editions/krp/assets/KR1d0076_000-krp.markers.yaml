@@ -20,6 +20,7 @@ markers:
   - {type: indent, offset: 6, content: 　　　　, id: KR1d0076_krp_000-bkkind2}
   - {type: punctuation, offset: 9, content: (, id: KR1d0076_krp_000-bkkpn1}
   - {type: variant, offset: 9, length: 2, content: 附録, SBCK: ''}
+  - {type: voice, offset: 9, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR1d0076_krp_000-bkkpn2}
   - {type: punctuation, offset: 11, content: ), id: KR1d0076_krp_000-bkkpn3}
   - {type: 'kr:newline', offset: 11, content: '
@@ -246,6 +247,7 @@ markers:
   - {type: line-break, offset: 168, content: '', id: KR1d0076_WYG_000-3a07}
   - {type: indent, offset: 168, content: 　　　　, id: KR1d0076_krp_000-bkkind55}
   - {type: punctuation, offset: 168, content: (, id: KR1d0076_krp_000-bkkpn4}
+  - {type: voice, offset: 168, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 169, content: /, id: KR1d0076_krp_000-bkkpn5}
   - {type: punctuation, offset: 169, content: ), id: KR1d0076_krp_000-bkkpn6}
   - {type: variant, offset: 179, length: 42, content: 漢戴德撰隋書經籍志云大戴禮記十三卷漢信都王太傅戴德撰梁有諡法三卷後漢安南太守劉熙注亡, SBCK: 而無夏小正之別矣}
@@ -599,12 +601,15 @@ markers:
   - {type: line-break, offset: 1129, content: '', id: KR1d0076_WYG_000-6b08}
   - {type: indent, offset: 1129, content: 　　　　　　　, id: KR1d0076_krp_000-bkkind112}
   - {type: punctuation, offset: 1132, content: (, id: KR1d0076_krp_000-bkkpn7}
+  - {type: voice, offset: 1132, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1133, content: /, id: KR1d0076_krp_000-bkkpn8}
   - {type: punctuation, offset: 1133, content: ), id: KR1d0076_krp_000-bkkpn9}
   - {type: punctuation, offset: 1135, content: (, id: KR1d0076_krp_000-bkkpn10}
+  - {type: voice, offset: 1135, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1136, content: /, id: KR1d0076_krp_000-bkkpn11}
   - {type: punctuation, offset: 1136, content: ), id: KR1d0076_krp_000-bkkpn12}
   - {type: punctuation, offset: 1139, content: (, id: KR1d0076_krp_000-bkkpn13}
+  - {type: voice, offset: 1139, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1140, content: /, id: KR1d0076_krp_000-bkkpn14}
   - {type: punctuation, offset: 1140, content: ), id: KR1d0076_krp_000-bkkpn15}
   - {type: 'kr:newline', offset: 1143, content: '
@@ -619,6 +624,7 @@ markers:
   - {type: indent, offset: 1144, content: 　, id: KR1d0076_krp_000-bkkind114}
   - {type: indent, offset: 1145, content: 　, id: KR1d0076_krp_000-bkkind115}
   - {type: punctuation, offset: 1146, content: (, id: KR1d0076_krp_000-bkkpn16}
+  - {type: voice, offset: 1146, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 1147, content: /, id: KR1d0076_krp_000-bkkpn17}
   - {type: punctuation, offset: 1147, content: ), id: KR1d0076_krp_000-bkkpn18}
   - {type: indent, offset: 1148, content: 　, id: KR1d0076_krp_000-bkkind116}
@@ -627,4 +633,4 @@ markers:
 
       ', id: KR1d0076_krp_000-bkkkrnewl109}
   back: []
-hash: sha256:5523ed7a79035071db3555d9d24dad666a4f82f822c370fc6d53ffc79a40860b
+hash: sha256:5347eff0db3ab0a4a175cf1c4f2637de8e89f45e359e20a47f45ea17a399f4d3
